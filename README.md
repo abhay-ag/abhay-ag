@@ -17,9 +17,6 @@ I'm Abhay Aggarwal!
 
 ---
 
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay-ag&show_icons=true&theme=github_light&hide_border=true&hide=issues,contribs)
-
----
 
 # 📱Connect with me
 * 📭 E-Mail _avonabhay@gmail.com_
