@@ -15,3 +15,5 @@ I'm Abhay Aggarwal!
     - [ ] MERN Stack
     - [ ] C Language
     - [ ] Java
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/abhay-ag/github-readme-stats)
