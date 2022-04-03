@@ -17,5 +17,5 @@ I'm Abhay Aggarwal!
 
 ---
 
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay-ag&show_icons=true&theme=github_dark&hide_border=true&hide=prs,issues,contribs)
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay-ag&show_icons=true&theme=github_light&hide_border=true&hide=prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-ag&layout=compact&hide=html,css)](https://github.com/abhay-ag/github-readme-stats)
