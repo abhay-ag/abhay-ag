@@ -8,6 +8,7 @@ I'm Abhay Aggarwal!
     - [x] C++
     - [x] Python
     - [x] JavaScript
+    - [x] Tailwind CSS
 
 * ***Current Goals 🗓️***
     - [ ] Data Stuctures and Algorithms
