@@ -9,6 +9,8 @@ I'm Abhay Aggarwal!
     - [x] Python
     - [x] JavaScript
     - [x] Tailwind CSS
+    - [x] Node.js
+    - [x] Express.js (basics)
 
 * ***Current Goals 🗓️***
     - [ ] Data Stuctures and Algorithms
